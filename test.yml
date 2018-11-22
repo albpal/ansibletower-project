@@ -1,5 +1,5 @@
 ---
 hosts: {{nombre_dominio}}
-- tasks:
+  tasks:
   - name: Test...
     command: "echo 'hello world'"
